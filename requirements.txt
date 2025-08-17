@@ -1,0 +1,18 @@
+# Password Security Tool - Dependencias
+# Instalación: pip install -r requirements.txt
+
+# Criptografía y cifrado
+cryptography>=41.0.7
+
+# Peticiones HTTP para API de HIBP
+requests>=2.31.0
+
+# Librerías incluidas en Python estándar (no requieren instalación):
+# - os
+# - sys
+# - json
+# - hashlib
+# - secrets
+# - string
+# - getpass
+# - base64
