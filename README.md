@@ -70,8 +70,8 @@
 
 1. **Clona el repositorio:**
 ```bash
-git clone https://github.com/qius-alx/password-tools.git
-cd password-tools
+git clone https://github.com/qius-alx/password_tools.git
+cd password_tools
 ```
 
 2. **Instala las dependencias:**
